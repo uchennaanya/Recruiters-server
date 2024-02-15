@@ -1,0 +1,1791 @@
+1. A user with name Obinna was added by Uchenna
+2. A user with name Uchenna was added by Uchenna
+1. A user with name Uchenna was added by Uchenna
+1. A user with name Uchenna was added by Uchenna
+Query took 11  millisecons to fetch document 
+1. A user with name Uchenna was added by Uchenna
+Query took 70  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 22  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 36  millisecons to fetch document 
+Query took 42  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 50  millisecons to fetch document 
+Query took 68  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 26  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+1. A user with name Bliss was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 24  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 33  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 93  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 60  millisecons to fetch document 
+1. A user with name Bliss was added by Uchenna
+Query took 7  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 20  millisecons to fetch document 
+Query took 20  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 21  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+1. A user with name Ark was added by Uchenna
+Query took 12  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 27  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 26  millisecons to fetch document 
+Query took 22  millisecons to fetch document 
+Query took 28  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 35  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 20  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 23  millisecons to fetch document 
+Query took 26  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+1. A user with name Ark was added by Uchenna
+Query took 13  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 27  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 27  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 38  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 59  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 54  millisecons to fetch document 
+Query took 33  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 155  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 21  millisecons to fetch document 
+Query took 20  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 21  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+1. A user with name Ark was added by Uchenna
+Query took 2  millisecons to fetch document 
+2. A user with name Ark was added by Uchenna
+Query took 12  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+1. A user with name Ark was added by Uchenna
+Query took 16  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+1. A user with name Ark was added by Uchenna
+Query took 7  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 21  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+1. A user with name Ark was added by Uchenna
+Query took 11  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+1. A user with name Ark was added by Uchenna
+Query took 19  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+1. A user with name Ark was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 20  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+1. A user with name Ark was added by Uchenna
+Query took 10  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 27  millisecons to fetch document 
+Query took 23  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 23  millisecons to fetch document 
+Query took 20  millisecons to fetch document 
+Query took 22  millisecons to fetch document 
+Query took 23  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 24  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 26  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 24  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+1. A user with name Ark was added by Uchenna
+Query took 12  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 159  millisecons to fetch document 
+1. A user with name Ark was added by Uchenna
+Query took 1883  millisecons to fetch document 
+2. A user with name Ark was added by Uchenna
+Query took 7264  millisecons to fetch document 
+3. A user with name Debbie was added by Uchenna
+Query took 192  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 21271  millisecons to fetch document 
+Query took 8186  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 198  millisecons to fetch document 
+Query took 3058  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 181  millisecons to fetch document 
+Query took 10099  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 22230  millisecons to fetch document 
+Query took 15156  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 5422  millisecons to fetch document 
+Query took 243  millisecons to fetch document 
+Query took 291  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+2. A user with name Debbie was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+3. A user with name Debbie was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 203  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 160  millisecons to fetch document 
+Query took 170  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 284  millisecons to fetch document 
+Query took 130  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 255  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 233  millisecons to fetch document 
+Query took 29  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 21  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 22  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 8  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 13  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 25  millisecons to fetch document 
+Query took 23  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 12  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+2. A user with name Debbie was added by Uchenna
+Query took 12  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 55  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 21  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 7  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 20  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 13  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 93  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+1. A user with name Debbie was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 20  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 23  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 23  millisecons to fetch document 
+Query took 20  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 28  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 20  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 20  millisecons to fetch document 
+Query took 23  millisecons to fetch document 
+Query took 26  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 69  millisecons to fetch document 
+Query took 21  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 45  millisecons to fetch document 
+Query took 31  millisecons to fetch document 
+Query took 21  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 17  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 32  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 35  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 23  millisecons to fetch document 
+Query took 28  millisecons to fetch document 
+Query took 26  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 25  millisecons to fetch document 
+Query took 32  millisecons to fetch document 
+Query took 33  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 34  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 22  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 23  millisecons to fetch document 
+Query took 22  millisecons to fetch document 
+Query took 33  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+1. A user with name Uchenna was added by Uchenna
+Query took 13  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 81  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+1. A user with name Onye was added by Uchenna
+Query took 34  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+1. A user with name Onye was added by Uchenna
+Query took 17  millisecons to fetch document 
+1. A user with name Onye was added by Uchenna
+Query took 9  millisecons to fetch document 
+1. A user with name Onye was added by Uchenna
+Query took 17  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+1. A user with name Onye was added by Uchenna
+Query took 7  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+2. A user with name Onye was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+3. A user with name vale was added by Uchenna
+Query took 2  millisecons to fetch document 
+4. A user with name Mile was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+1. A user with name Ike was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 15  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+1. A user with name Ike was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+1. A user with name Amaka was added by Uchenna
+Query took 9  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+2. A user with name chioma was added by Uchenna
+Query took 2  millisecons to fetch document 
+3. A user with name chioma was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 35  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 24  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+1. A user with name Oleh was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 43  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 28  millisecons to fetch document 
+Query took 37  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 20  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 23  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+1. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+1. A user with name Obinna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 21  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 22  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+1. A user with name Queen was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+2. A user with name Mike was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 50  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 16  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+1. A user with name Oleh was added by Uchenna
+Query took 17  millisecons to fetch document 
+1. A user with name Oleh was added by Uchenna
+Query took 4  millisecons to fetch document 
+2. A user with name Oleh was added by Uchenna
+Query took 14  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+Query took 7  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 11  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+3. A user with name uchenna was added by Uchenna
+4. A user with name uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+5. A user with name uchenna was added by Uchenna
+6. A user with name uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+7. A user with name uchenna was added by Uchenna
+8. A user with name uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+9. A user with name uchenna was added by Uchenna
+10. A user with name uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+11. A user with name Oleh was added by Uchenna
+12. A user with name Oleh was added by Uchenna
+Query took 10  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 15  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 18  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+3. A user with name uchenna was added by Uchenna
+4. A user with name uchenna was added by Uchenna
+Query took 11  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 11  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+Query took 13  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+Query took 13  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 5  millisecons to fetch document 
+3. A user with name uchenna was added by Uchenna
+4. A user with name uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+5. A user with name uchenna was added by Uchenna
+6. A user with name uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+7. A user with name uchenna was added by Uchenna
+8. A user with name uchenna was added by Uchenna
+Query took 13  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 16  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+3. A user with name uchenna was added by Uchenna
+4. A user with name uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+5. A user with name uchenna was added by Uchenna
+6. A user with name uchenna was added by Uchenna
+Query took 13  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 22  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 6  millisecons to fetch document 
+3. A user with name uchenna was added by Uchenna
+4. A user with name uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+5. A user with name uchenna was added by Uchenna
+6. A user with name uchenna was added by Uchenna
+Query took 13  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
+2. A user with name uchenna was added by Uchenna
+Query took 15  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+1. A user with name Uchee was added by Uchenna
+Query took 14  millisecons to fetch document 
+1. A user with name Uchenna was added by Uchenna
+Query took 8  millisecons to fetch document 
+2. A user with name Uchee was added by Uchenna
+3. A user with name Uchee was added by Uchenna
+Query took 4  millisecons to fetch document 
+4. A user with name Uchenna was added by Uchenna
+5. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+6. A user with name Uchenna was added by Uchenna
+7. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+8. A user with name Oleh was added by Uchenna
+9. A user with name Oleh was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+10. A user with name Uchee was added by Uchenna
+11. A user with name Uchee was added by Uchenna
+Query took 9  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+12. A user with name Uchenna was added by Uchenna
+13. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+14. A user with name Uchenna was added by Uchenna
+15. A user with name Uchenna was added by Uchenna
+Query took 18  millisecons to fetch document 
+1. A user with name Uchee was added by Uchenna
+2. A user with name Uchee was added by Uchenna
+Query took 10  millisecons to fetch document 
+1. A user with name Uchenna was added by Uchenna
+2. A user with name Uchenna was added by Uchenna
+Query took 21  millisecons to fetch document 
+1. A user with name Uchenna was added by Uchenna
+2. A user with name Uchenna was added by Uchenna
+Query took 11  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 24  millisecons to fetch document 
+Query took 27  millisecons to fetch document 
+Query took 46  millisecons to fetch document 
+Query took 39  millisecons to fetch document 
+Query took 85  millisecons to fetch document 
+Query took 86  millisecons to fetch document 
+Query took 127  millisecons to fetch document 
+Query took 126  millisecons to fetch document 
+Query took 81  millisecons to fetch document 
+Query took 83  millisecons to fetch document 
+Query took 86  millisecons to fetch document 
+Query took 76  millisecons to fetch document 
+Query took 81  millisecons to fetch document 
+Query took 84  millisecons to fetch document 
+Query took 61  millisecons to fetch document 
+Query took 60  millisecons to fetch document 
+Query took 135  millisecons to fetch document 
+Query took 127  millisecons to fetch document 
+Query took 66  millisecons to fetch document 
+Query took 103  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 14  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 13  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+3. A user with name Uchenna was added by Uchenna
+4. A user with name Uchenna was added by Uchenna
+Query took 28  millisecons to fetch document 
+5. A user with name Uchenna was added by Uchenna
+Query took 35  millisecons to fetch document 
+Query took 42  millisecons to fetch document 
+Query took 53  millisecons to fetch document 
+Query took 67  millisecons to fetch document 
+Query took 71  millisecons to fetch document 
+Query took 81  millisecons to fetch document 
+6. A user with name Uchenna was added by Uchenna
+7. A user with name Uchenna was added by Uchenna
+8. A user with name Uchenna was added by Uchenna
+Query took 84  millisecons to fetch document 
+9. A user with name Uchenna was added by Uchenna
+10. A user with name Uchenna was added by Uchenna
+11. A user with name Uchenna was added by Uchenna
+Query took 79  millisecons to fetch document 
+Query took 62  millisecons to fetch document 
+Query took 75  millisecons to fetch document 
+12. A user with name Uchenna was added by Uchenna
+13. A user with name Uchenna was added by Uchenna
+14. A user with name Uchenna was added by Uchenna
+15. A user with name Uchenna was added by Uchenna
+Query took 320  millisecons to fetch document 
+Query took 312  millisecons to fetch document 
+16. A user with name Uchenna was added by Uchenna
+17. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+18. A user with name Uchenna was added by Uchenna
+19. A user with name Uchenna was added by Uchenna
+Query took 48  millisecons to fetch document 
+Query took 47  millisecons to fetch document 
+20. A user with name Uchenna was added by Uchenna
+21. A user with name Uchenna was added by Uchenna
+Query took 33  millisecons to fetch document 
+22. A user with name Uchenna was added by Uchenna
+23. A user with name Uchenna was added by Uchenna
+24. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+25. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+26. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+27. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+28. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+29. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+30. A user with name Uchenna was added by Uchenna
+31. A user with name Uchenna was added by Uchenna
+32. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+33. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+34. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+35. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+36. A user with name Uchenna was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+37. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+38. A user with name Uchenna was added by Uchenna
+39. A user with name Uchenna was added by Uchenna
+40. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+41. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+42. A user with name Uchenna was added by Uchenna
+43. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+44. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+45. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+46. A user with name Uchenna was added by Uchenna
+47. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+48. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+49. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+50. A user with name Uchenna was added by Uchenna
+51. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+52. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+53. A user with name Uchenna was added by Uchenna
+Query took 10  millisecons to fetch document 
+54. A user with name Uchenna was added by Uchenna
+55. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+56. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+57. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+58. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+59. A user with name Uchenna was added by Uchenna
+60. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+61. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+62. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+63. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+64. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+65. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+66. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+67. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+68. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+69. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+70. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+71. A user with name Uchenna was added by Uchenna
+Query took 1  millisecons to fetch document 
+72. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+73. A user with name Uchenna was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+74. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+75. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+76. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+77. A user with name Uchenna was added by Uchenna
+Query took 5  millisecons to fetch document 
+78. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+79. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+80. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+81. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+82. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+83. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+84. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+85. A user with name Uchenna was added by Uchenna
+86. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+87. A user with name Uchenna was added by Uchenna
+88. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+89. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+90. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+91. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+92. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+93. A user with name Uchenna was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+94. A user with name Uchenna was added by Uchenna
+Query took 10  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+95. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+96. A user with name Uchenna was added by Uchenna
+Query took 6  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+97. A user with name Uchenna was added by Uchenna
+98. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+99. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+100. A user with name Uchenna was added by Uchenna
+Query took 6  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+101. A user with name Uchenna was added by Uchenna
+102. A user with name Uchenna was added by Uchenna
+103. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+104. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+105. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+106. A user with name Uchenna was added by Uchenna
+107. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+108. A user with name Uchenna was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+109. A user with name Uchenna was added by Uchenna
+110. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+111. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+112. A user with name Uchenna was added by Uchenna
+Query took 6  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+113. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+114. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+115. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+116. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+117. A user with name Uchenna was added by Uchenna
+118. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+119. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+120. A user with name Uchenna was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+121. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+122. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+123. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+124. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+125. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+126. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+127. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+128. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+129. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+130. A user with name Uchenna was added by Uchenna
+131. A user with name Uchenna was added by Uchenna
+Query took 7  millisecons to fetch document 
+Query took 12  millisecons to fetch document 
+132. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+133. A user with name Uchenna was added by Uchenna
+134. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+135. A user with name Uchenna was added by Uchenna
+136. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+137. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+138. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+139. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+140. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+141. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+142. A user with name Uchenna was added by Uchenna
+143. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+144. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+145. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+146. A user with name Uchenna was added by Uchenna
+147. A user with name Uchenna was added by Uchenna
+148. A user with name Uchenna was added by Uchenna
+Query took 6  millisecons to fetch document 
+Query took 7  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+149. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+150. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+151. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+152. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+153. A user with name Uchenna was added by Uchenna
+154. A user with name Uchenna was added by Uchenna
+Query took 7  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+155. A user with name Uchenna was added by Uchenna
+Query took 27  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+156. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+157. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+158. A user with name Uchenna was added by Uchenna
+159. A user with name Uchenna was added by Uchenna
+160. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+161. A user with name Uchenna was added by Uchenna
+162. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+163. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+164. A user with name Uchenna was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+165. A user with name Uchenna was added by Uchenna
+166. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+167. A user with name Uchenna was added by Uchenna
+168. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+169. A user with name Uchenna was added by Uchenna
+170. A user with name Uchenna was added by Uchenna
+171. A user with name Uchenna was added by Uchenna
+Query took 8  millisecons to fetch document 
+172. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+173. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+174. A user with name Uchenna was added by Uchenna
+175. A user with name Uchenna was added by Uchenna
+176. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+177. A user with name Uchenna was added by Uchenna
+178. A user with name Uchenna was added by Uchenna
+179. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+180. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+181. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+182. A user with name Uchenna was added by Uchenna
+183. A user with name Uchenna was added by Uchenna
+Query took 6  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+184. A user with name Uchenna was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+185. A user with name Uchenna was added by Uchenna
+Query took 5  millisecons to fetch document 
+186. A user with name Uchenna was added by Uchenna
+187. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+188. A user with name Uchenna was added by Uchenna
+Query took 10  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 11  millisecons to fetch document 
+Query took 18  millisecons to fetch document 
+189. A user with name Uchenna was added by Uchenna
+190. A user with name Uchenna was added by Uchenna
+191. A user with name Uchenna was added by Uchenna
+192. A user with name Uchenna was added by Uchenna
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+193. A user with name Uchenna was added by Uchenna
+Query took 6  millisecons to fetch document 
+194. A user with name Uchenna was added by Uchenna
+195. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+196. A user with name Uchenna was added by Uchenna
+Query took 7  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+197. A user with name Uchenna was added by Uchenna
+198. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+199. A user with name Uchenna was added by Uchenna
+Query took 9  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+200. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+201. A user with name Uchenna was added by Uchenna
+Query took 8  millisecons to fetch document 
+202. A user with name Uchenna was added by Uchenna
+203. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+204. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+205. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+206. A user with name Uchenna was added by Uchenna
+207. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+208. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+209. A user with name Uchenna was added by Uchenna
+210. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+211. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+212. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+213. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+214. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+215. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+216. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+217. A user with name Uchenna was added by Uchenna
+218. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+219. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+220. A user with name Uchenna was added by Uchenna
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+221. A user with name Uchenna was added by Uchenna
+Query took 3  millisecons to fetch document 
+222. A user with name Uchenna was added by Uchenna
+223. A user with name Uchenna was added by Uchenna
+224. A user with name Uchenna was added by Uchenna
+Query took 6  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+225. A user with name Uchenna was added by Uchenna
+Query took 6  millisecons to fetch document 
+Query took 10  millisecons to fetch document 
+226. A user with name Uchenna was added by Uchenna
+227. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+228. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 1  millisecons to fetch document 
+229. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+230. A user with name Uchenna was added by Uchenna
+231. A user with name Uchenna was added by Uchenna
+232. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+233. A user with name Uchenna was added by Uchenna
+234. A user with name Uchenna was added by Uchenna
+Query took 2  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+235. A user with name Uchenna was added by Uchenna
+Query took 21  millisecons to fetch document 
+236. A user with name Uchenna was added by Uchenna
+Query took 1  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+237. A user with name Uchenna was added by Uchenna
+238. A user with name Uchenna was added by Uchenna
+239. A user with name Uchenna was added by Uchenna
+240. A user with name Uchenna was added by Uchenna
+241. A user with name Uchenna was added by Uchenna
+242. A user with name Uchenna was added by Uchenna
+243. A user with name Uchenna was added by Uchenna
+244. A user with name Uchenna was added by Uchenna
+245. A user with name Uchenna was added by Uchenna
+246. A user with name Uchenna was added by Uchenna
+247. A user with name Uchenna was added by Uchenna
+248. A user with name Uchenna was added by Uchenna
+249. A user with name Uchenna was added by Uchenna
+250. A user with name Uchenna was added by Uchenna
+251. A user with name Uchenna was added by Uchenna
+252. A user with name Uchenna was added by Uchenna
+253. A user with name Uchenna was added by Uchenna
+254. A user with name Uchenna was added by Uchenna
+Query took 14  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 6  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 2  millisecons to fetch document 
+Query took 8  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 9  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 25  millisecons to fetch document 
+Query took 5  millisecons to fetch document 
+Query took 4  millisecons to fetch document 
+Query took 3  millisecons to fetch document 
+Query took 19  millisecons to fetch document 
+1. A user with name uchenna was added by Uchenna
